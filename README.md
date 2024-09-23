@@ -4,4 +4,5 @@
 - Teacher: Dr. Lien Nguyen(Lien.Nguyen@spi.nsw.edu.au)
 # Weekly Journal Entries 
 [Week 4:Markov Chain Monte Carlo](./Week04.md)
+
 [Week 5:sdasdasdv Chain Monte Carlo](./Week05.md)
